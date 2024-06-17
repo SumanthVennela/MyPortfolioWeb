@@ -27,10 +27,10 @@ const Projects = () => {
       {
          id: 3,
          img: Project3,
-         title: "Wikipedia Search",
+         title: "Github Profile Viewer",
          subtitle:
-            "Unlocking Knowledge, One Search at a Time: Navigate the World with our Wikipedia Search Application",
-         preview: "https://sumanthvennela.github.io/SearchWiki/",
+            "GitHub Insight: Navigate Your Code Universe",
+         preview: "https://githubviewer9.netlify.app/",
          tech: "Javascript, HTML, CSS",
       },
       {
