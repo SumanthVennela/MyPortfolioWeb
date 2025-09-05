@@ -15,7 +15,7 @@ const About = () => {
                </h2>
                <p className="text-lg pt-4 text-white">
                Recent Master of Computer Applications (MCA) graduate from Osmania University 
-               with a CGPA of 7.8, and a Bachelor of Science in Computer Science from
+               with a CGPA of 8.5, and a Bachelor of Science in Computer Science from
                 Satavahana University with a CGPA of 8.0. Possesses a solid foundation
                  in computer science principles and hands-on experience through academic 
                  projects and internships. Adept at problem-solving, with a keen interest 

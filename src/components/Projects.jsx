@@ -9,10 +9,10 @@ const Projects = () => {
       {
          id: 1,
          img: Project1,
-         title: "Multi-Language Content",
+         title: "LEARNIFINITY",
          subtitle:
-            "View the story narrative in six languages",
-         preview: "https://sumanthvennela.ccbp.tech/",
+            "Digital Education Hub",
+         preview: "https://learnfinity.netlify.app/",
          tech: "HTML, CSS, Javascript, React",
       },
       {
